@@ -14,8 +14,10 @@
 - 🎓 Actualmente desarrollador web junior y en constante aprendizaje.
 - 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
-- 📫 Contáctame: albertus1291@[gmail](mailto:albertus1291@gmail.com).com | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
-- 📁 [Portafolio](https://albertcastro.vercel.app/)
+- 📁 [Portafolio](https://doffy11ar.github.io/)
+
+  
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ---
 
