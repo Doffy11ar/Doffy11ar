@@ -83,4 +83,8 @@
 
 ## 📫 Contacto
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/tu-usuario)
+<p align="center">
+	<a href="mailto:sebas.110d@outlook.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://api.whatsapp.com/qr/3GY57GFVLKAMC1?autoload=1&app_absent=0"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/sebastian-achicanoy-92813a36a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
