@@ -2,6 +2,10 @@
 
 Soy **Juan Pérez**, desarrollador backend con pasión por sistemas escalables.
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ## 🚀 Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
